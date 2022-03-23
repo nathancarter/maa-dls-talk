@@ -9,7 +9,8 @@ This repository contains slides and links related to my 2022 Mathematical Associ
 
 ## Slides
 
- * (forthcoming)
+ * [View the slides](https://github.com/nathancarter/maa-dls-talk/blob/main/slides.pdf)
+ * [Download the slides](https://github.com/nathancarter/maa-dls-talk/raw/main/slides.pdf)
 
 ## Links
 
