@@ -3,9 +3,10 @@
 
 This repository contains slides and links related to my 2022 Mathematical Association of America Distinguished Lecture Series talk, entitled "Mathematics in Data Science."
 
-## Talk Announcement and Recording
+## Official Info
 
-[See the MAA Website, here.](https://www.maa.org/programs/maa-distinguished-lecture-series)
+ * [Watch the talk on the MAA YouTube channel](https://www.youtube.com/watch?v=lK5LcwmMn9Y)
+ * [Original event announcement](https://www.maa.org/programs/maa-distinguished-lecture-series)
 
 ## Slides
 
